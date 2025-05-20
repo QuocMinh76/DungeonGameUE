@@ -27,13 +27,26 @@ Players navigate a large, fixed maze filled with dangerous enemies and must surv
 
 ## 🛠️ Development Details
 
-- Built entirely in **Unreal Engine 5** using **Blueprints**.
+- Built entirely in **Unreal Engine 5.4** using **Blueprints**.
 - Designed and implemented all:
   - Level geometry and maze layout
   - Enemy AI using Unreal’s behavior trees and blackboard system
   - Combat systems (player and enemy)
   - Game logic and win/loss conditions
 - No external plugins or online features – **fully offline and self-contained**.
+
+## 🎮 Controls
+
+- **W / A / S / D**: Move forward / left / backward / right  
+- **Spacebar**: Jump  
+- **F**: Heal  
+- **Key 0**: Switch to passive stance  
+- **Key 1**: Switch to melee stance (press again to return to passive)  
+- **Key 2**: Switch to mage stance (press again to return to passive)  
+- **Left Shift**: Dash a short distance in the current movement direction  
+- **Left Mouse Button**: Attack (press multiple times to perform a combo)  
+- **Right Mouse Button**: Block incoming attacks  
+- **Mouse Movement**: Rotate the camera 
 
 ## 🙋 About the Developer
 
